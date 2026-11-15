@@ -13,38 +13,38 @@
   "sha256": "78ba14b1214a76bb1df1aa459a90b79a045fe43d48b9d8d35416161edb0bc977"
  },
  "apk": {
-  "apkRevision": 31,
-  "versionCode": 26111541,
-  "versionName": "11.0.0-ko31",
-  "outSize": 2150112370,
-  "outSha256": "18e97c72ad9180bc3046c4846f3846e188d17ce882923b443808f34117772806",
+  "apkRevision": 32,
+  "versionCode": 26111542,
+  "versionName": "11.0.0-ko32",
+  "outSize": 2150526159,
+  "outSha256": "727d3eaad9332c9bbcf56bc3654671ac3d754eb194d315b13f57857c7fa25b53",
   "certSha256": "2e543529afd80801d6d30cf4b1c8b39aa705c90f033a7522b441d86db66138a4",
   "minPatcher": 1,
   "patches": [
    {
     "from": "orig",
     "srcSha256": "78ba14b1214a76bb1df1aa459a90b79a045fe43d48b9d8d35416161edb0bc977",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-31/orig510_to_R31.jprecipe",
-    "size": 641512235,
-    "sha256": "770bad5199331349786bd25c4da945303e4742ea0642adc6504602fd14be411a"
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-32/orig510_to_R32.jprecipe",
+    "size": 641929142,
+    "sha256": "93e46f2621fc432031ecac50ffffceb7242c2b76c1ac497ff5b4671a0d29c7a7"
+   },
+   {
+    "from": "31",
+    "srcSha256": "18e97c72ad9180bc3046c4846f3846e188d17ce882923b443808f34117772806",
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-32/R31_to_R32.jprecipe",
+    "size": 766873,
+    "sha256": "3846be1e186e7868da0c20876654a853f2c571e1a17e35204b58c2d29988b5ae"
    },
    {
     "from": "29",
     "srcSha256": "e8a902c1075f1da1db2b74b98049c4c3a2945121b4c0dd2e7a50836cb8f384fc",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-31/R29_to_R31.jprecipe",
-    "size": 3885607,
-    "sha256": "fec60f57a32588fca63f0459c6e308fb10d55134c8cb56455f28b68bbf31ac43"
-   },
-   {
-    "from": "28",
-    "srcSha256": "8767ff1fd3b7acf09335fa6cae9a8144a55a656d724bd456a9da4ae8ab58c6d0",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-31/R28_to_R31.jprecipe",
-    "size": 14911104,
-    "sha256": "6afc9e577ba3eb3c01d83eff8b25382e0c508bbfd17254ab00f9fa3a3dd2548a"
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-32/R29_to_R32.jprecipe",
+    "size": 4299629,
+    "sha256": "b7702ae8ec810de141cfe774c3b7c6014b2043d77e0f9b1de1a21d55ad03fee9"
    }
   ]
  },
  "notesKo": [
-  "R31: 유닛 타입·리더 스킬 줄·장비 없음·드롭 보너스 그림·화면 문구 전수 한글화"
+  "R32: 유닛 타입 배지 한글(그림)"
  ]
 }
