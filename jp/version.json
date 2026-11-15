@@ -13,31 +13,38 @@
   "sha256": "78ba14b1214a76bb1df1aa459a90b79a045fe43d48b9d8d35416161edb0bc977"
  },
  "apk": {
-  "apkRevision": 28,
-  "versionCode": 26111538,
-  "versionName": "11.0.0-ko28",
-  "outSize": 2144689266,
-  "outSha256": "8767ff1fd3b7acf09335fa6cae9a8144a55a656d724bd456a9da4ae8ab58c6d0",
+  "apkRevision": 29,
+  "versionCode": 26111539,
+  "versionName": "11.0.0-ko29",
+  "outSize": 2150100082,
+  "outSha256": "e8a902c1075f1da1db2b74b98049c4c3a2945121b4c0dd2e7a50836cb8f384fc",
   "certSha256": "2e543529afd80801d6d30cf4b1c8b39aa705c90f033a7522b441d86db66138a4",
   "minPatcher": 1,
   "patches": [
    {
     "from": "orig",
     "srcSha256": "78ba14b1214a76bb1df1aa459a90b79a045fe43d48b9d8d35416161edb0bc977",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-28/orig510_to_R28.jprecipe",
-    "size": 635947402,
-    "sha256": "6b6caa94a17499d7dbb70ebd63a2a3ffdc9fb7a745f0018784d8c00afcd71444"
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-29/orig510_to_R29.jprecipe",
+    "size": 641481285,
+    "sha256": "c3040d2a70276e2f7e73273508bf028c45e50e56e9f8a1bf529afe227dff3d02"
+   },
+   {
+    "from": "28",
+    "srcSha256": "8767ff1fd3b7acf09335fa6cae9a8144a55a656d724bd456a9da4ae8ab58c6d0",
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-29/R28_to_R29.jprecipe",
+    "size": 11489063,
+    "sha256": "db15ee30cbf5b4087d9acca5a21be7b56e5fbc19ed0edb7c12c7b0f0da7f9028"
    },
    {
     "from": "27",
     "srcSha256": "c05a614cc3e42a707832afe19fdef2d66881b7151084bdf7b8cf3052e7ccc396",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-28/R27_to_R28.jprecipe",
-    "size": 382357805,
-    "sha256": "c0936ea6fac96fe7ad8f04f35c0da3b925133e172c3b29fb5679658fad697c69"
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-29/R27_to_R29.jprecipe",
+    "size": 383351263,
+    "sha256": "f744423cdea79b2250a1a54e7fb94d7cf9f7843913c393d4f602e1278c5d89de"
    }
   ]
  },
  "notesKo": [
-  "R28: 원본 26111510 기준 · 글꼴 · 마을 이름 · 배너 · NV 상점 · 체인 그림 · 슈퍼트마"
+  "R29: 보상 그림 · 교환 탭 · 의지의 격돌 배너·글자 · 받기 화면 · 첫 실행 받기 12개 동시 · 설정에서 길·라피스 추가"
  ]
 }
