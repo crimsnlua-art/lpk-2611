@@ -13,38 +13,38 @@
   "sha256": "78ba14b1214a76bb1df1aa459a90b79a045fe43d48b9d8d35416161edb0bc977"
  },
  "apk": {
-  "apkRevision": 33,
-  "versionCode": 26111543,
-  "versionName": "11.0.0-ko33",
-  "outSize": 2150497487,
-  "outSha256": "a3c6bc19d485f310ba7a4147c0f4d7ccd10095868798913ca0d3f0502228d212",
+  "apkRevision": 34,
+  "versionCode": 26111544,
+  "versionName": "11.0.0-ko34",
+  "outSize": 2150571215,
+  "outSha256": "3327f1ece2873613cc316de4bb4a97e6fa832fc6ad746e8ac2f8668492e9eeaf",
   "certSha256": "2e543529afd80801d6d30cf4b1c8b39aa705c90f033a7522b441d86db66138a4",
   "minPatcher": 1,
   "patches": [
    {
     "from": "orig",
     "srcSha256": "78ba14b1214a76bb1df1aa459a90b79a045fe43d48b9d8d35416161edb0bc977",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-33/orig510_to_R33.jprecipe",
-    "size": 641900316,
-    "sha256": "89fdfeaede0b76be56601edad5dbf98ec33a2bc5b043f44847129732727e8014"
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-34/orig510_to_R34.jprecipe",
+    "size": 641972239,
+    "sha256": "0bfa5a6f8bc2eca4adf2c894841cb3b65f88b03f284363a2d64552b8822897e8"
+   },
+   {
+    "from": "33",
+    "srcSha256": "a3c6bc19d485f310ba7a4147c0f4d7ccd10095868798913ca0d3f0502228d212",
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-34/R33_to_R34.jprecipe",
+    "size": 9483178,
+    "sha256": "a9dfd60a0f91e34c510fa9396580d6d54a7de8033f045c2601f7bd006f66753f"
    },
    {
     "from": "32",
     "srcSha256": "727d3eaad9332c9bbcf56bc3654671ac3d754eb194d315b13f57857c7fa25b53",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-33/R32_to_R33.jprecipe",
-    "size": 3111996,
-    "sha256": "97c440b0b6579695b00a9d339fbe73d8cafb490e2d3522db4f7cfa04248f6790"
-   },
-   {
-    "from": "31",
-    "srcSha256": "18e97c72ad9180bc3046c4846f3846e188d17ce882923b443808f34117772806",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-33/R31_to_R33.jprecipe",
-    "size": 3527370,
-    "sha256": "547138e223ac623109922d00fab81d533351b87ebf229530b4091fd787879fb6"
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-34/R32_to_R34.jprecipe",
+    "size": 12258652,
+    "sha256": "0ae6fa15f5974c6902bd39b1e1537d5c50a3f2c5eb606d88743427bddb7e33b1"
    }
   ]
  },
  "notesKo": [
-  "R33: 추억의 소환·NV 선택권에 GL 캐릭터 · 화면을 터치 배치 · 대거 이름"
+  "R34: 대사 줄 맞춤·쪽 나눔 · 따옴표 · 추억의 소환 5성·NV 분리(버튼 하나)"
  ]
 }
