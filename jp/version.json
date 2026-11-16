@@ -13,38 +13,38 @@
   "sha256": "78ba14b1214a76bb1df1aa459a90b79a045fe43d48b9d8d35416161edb0bc977"
  },
  "apk": {
-  "apkRevision": 36,
-  "versionCode": 26111546,
-  "versionName": "11.0.0-ko36",
-  "outSize": 2150587599,
-  "outSha256": "ab957d200233c68046cd5ff658e240dbaed22f26b5dad5859b1b94cfd0c06128",
+  "apkRevision": 37,
+  "versionCode": 26111547,
+  "versionName": "11.0.0-ko37",
+  "outSize": 2150583503,
+  "outSha256": "78b4901fb7bea156a95d16cd146cc8028c5b920f93178cd1a167aa878111c08d",
   "certSha256": "2e543529afd80801d6d30cf4b1c8b39aa705c90f033a7522b441d86db66138a4",
   "minPatcher": 1,
   "patches": [
    {
     "from": "orig",
     "srcSha256": "78ba14b1214a76bb1df1aa459a90b79a045fe43d48b9d8d35416161edb0bc977",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-36/orig510_to_R36.jprecipe",
-    "size": 641987318,
-    "sha256": "87cf9849726367aa3181cda156f366a9b9c877f1c6a8662ebe1961c59f80b4c4"
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-37/orig510_to_R37.jprecipe",
+    "size": 641987271,
+    "sha256": "96cb8923e78c68da759b94fe8bdb08dd2472f2db4e54621244d33c29e3a2d48c"
+   },
+   {
+    "from": "36",
+    "srcSha256": "ab957d200233c68046cd5ff658e240dbaed22f26b5dad5859b1b94cfd0c06128",
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-37/R36_to_R37.jprecipe",
+    "size": 1060058,
+    "sha256": "42c59ab7b542b44ad09a23b7d25c81b68e196156df9a1abe1e8b8acbb0b7ffc5"
    },
    {
     "from": "35",
     "srcSha256": "84a8b05d924de05f67ec61f5a9ff49ad2b45ff44ef48bd27c03197c5ff457e50",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-36/R35_to_R36.jprecipe",
-    "size": 1057634,
-    "sha256": "b9f15503d2340cceb44b5f20d81d45c3d023220a5071cf0f2aeb766865bc6547"
-   },
-   {
-    "from": "34",
-    "srcSha256": "3327f1ece2873613cc316de4bb4a97e6fa832fc6ad746e8ac2f8668492e9eeaf",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-36/R34_to_R36.jprecipe",
-    "size": 26042487,
-    "sha256": "1f853d3589afecf20fb65ecef5562a8cac4bd1c605b93852c857d5d9143bcdd9"
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-37/R35_to_R37.jprecipe",
+    "size": 366194,
+    "sha256": "6ac7436ef6e20c96a73d8fff81312d9ee7674f101e1d5190ac7491d514405156"
    }
   ]
  },
  "notesKo": [
-  "R36: 겹치는 GL 50명 제외(일판 기준) · (GL) 표시 제거 · GL 픽업 일판 교체"
+  "R37: GL 원본 방식 복구(GL 픽업에서만) · 추억의 소환은 설정 따름 · (GL) 표시"
  ]
 }
