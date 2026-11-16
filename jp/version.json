@@ -13,38 +13,38 @@
   "sha256": "78ba14b1214a76bb1df1aa459a90b79a045fe43d48b9d8d35416161edb0bc977"
  },
  "apk": {
-  "apkRevision": 34,
-  "versionCode": 26111544,
-  "versionName": "11.0.0-ko34",
-  "outSize": 2150571215,
-  "outSha256": "3327f1ece2873613cc316de4bb4a97e6fa832fc6ad746e8ac2f8668492e9eeaf",
+  "apkRevision": 35,
+  "versionCode": 26111545,
+  "versionName": "11.0.0-ko35",
+  "outSize": 2150583503,
+  "outSha256": "84a8b05d924de05f67ec61f5a9ff49ad2b45ff44ef48bd27c03197c5ff457e50",
   "certSha256": "2e543529afd80801d6d30cf4b1c8b39aa705c90f033a7522b441d86db66138a4",
   "minPatcher": 1,
   "patches": [
    {
     "from": "orig",
     "srcSha256": "78ba14b1214a76bb1df1aa459a90b79a045fe43d48b9d8d35416161edb0bc977",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-34/orig510_to_R34.jprecipe",
-    "size": 641972239,
-    "sha256": "0bfa5a6f8bc2eca4adf2c894841cb3b65f88b03f284363a2d64552b8822897e8"
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-35/orig510_to_R35.jprecipe",
+    "size": 641986574,
+    "sha256": "a6fc2145b82bafaa5389a917c3ee7d1d10e2cfdc814ec278045cd2d6bdda03a8"
+   },
+   {
+    "from": "34",
+    "srcSha256": "3327f1ece2873613cc316de4bb4a97e6fa832fc6ad746e8ac2f8668492e9eeaf",
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-35/R34_to_R35.jprecipe",
+    "size": 26682099,
+    "sha256": "38ff7d110ce67007210c983b5fb268252448b9dc64ab444d0f49766599bc4406"
    },
    {
     "from": "33",
     "srcSha256": "a3c6bc19d485f310ba7a4147c0f4d7ccd10095868798913ca0d3f0502228d212",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-34/R33_to_R34.jprecipe",
-    "size": 9483178,
-    "sha256": "a9dfd60a0f91e34c510fa9396580d6d54a7de8033f045c2601f7bd006f66753f"
-   },
-   {
-    "from": "32",
-    "srcSha256": "727d3eaad9332c9bbcf56bc3654671ac3d754eb194d315b13f57857c7fa25b53",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-34/R32_to_R34.jprecipe",
-    "size": 12258652,
-    "sha256": "0ae6fa15f5974c6902bd39b1e1537d5c50a3f2c5eb606d88743427bddb7e33b1"
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-35/R33_to_R35.jprecipe",
+    "size": 35825000,
+    "sha256": "22637c5cf81f1ba3550f81ca444bf34fc8a512325e04afe0252b762b84be6af5"
    }
   ]
  },
  "notesKo": [
-  "R34: 대사 줄 맞춤·쪽 나눔 · 따옴표 · 추억의 소환 5성·NV 분리(버튼 하나)"
+  "R35: GL 유닛 이름 (GL) 표시 · 영어 칸 95 채움 · 용어 통일"
  ]
 }
