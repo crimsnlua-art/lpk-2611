@@ -8,43 +8,36 @@
  },
  "original": {
   "package": "com.square_enix.ffbejpn",
-  "versionCode": 26111510,
-  "size": 1781189654,
-  "sha256": "78ba14b1214a76bb1df1aa459a90b79a045fe43d48b9d8d35416161edb0bc977"
+  "versionCode": 26111713,
+  "size": 1783610390,
+  "sha256": "7186d7578e0e0d215fdd7388a8ad743fd8b4dd2fe534c91e706172feb68c1dab"
  },
  "apk": {
-  "apkRevision": 38,
-  "versionCode": 26111548,
-  "versionName": "11.0.0-ko38",
-  "outSize": 2150591695,
-  "outSha256": "47b5605e74611c3e4540ed5af4a419163b5242b2bed6e65aa2fa48341a2402dd",
+  "apkRevision": 39,
+  "versionCode": 26111549,
+  "versionName": "11.0.0-ko39",
+  "outSize": 2152774863,
+  "outSha256": "917dc46fe15b7e1267e72a07a6747c6250e1423817e2112e64b6191bfb5e7e39",
   "certSha256": "2e543529afd80801d6d30cf4b1c8b39aa705c90f033a7522b441d86db66138a4",
   "minPatcher": 1,
   "patches": [
    {
     "from": "orig",
-    "srcSha256": "78ba14b1214a76bb1df1aa459a90b79a045fe43d48b9d8d35416161edb0bc977",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-38/orig510_to_R38.jprecipe",
-    "size": 641995139,
-    "sha256": "c91b9e656e72d1de0ba3ba80ac53c446d3d4ffc8af7fcf66df5629b5b26de0cf"
+    "srcSha256": "7186d7578e0e0d215fdd7388a8ad743fd8b4dd2fe534c91e706172feb68c1dab",
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-39/orig713_to_R39.jprecipe",
+    "size": 644019544,
+    "sha256": "f7c9d0a811ba0b3779648fce81380b9280c25836c3f7dc95559e6185cc08fe9e"
    },
    {
-    "from": "37",
-    "srcSha256": "78b4901fb7bea156a95d16cd146cc8028c5b920f93178cd1a167aa878111c08d",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-38/R37_to_R38.jprecipe",
-    "size": 2411316,
-    "sha256": "b68fdbf72b959692925071967e265a6d1f8a86559326e87baab72000f78a2291"
-   },
-   {
-    "from": "36",
-    "srcSha256": "ab957d200233c68046cd5ff658e240dbaed22f26b5dad5859b1b94cfd0c06128",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-38/R36_to_R38.jprecipe",
-    "size": 3116241,
-    "sha256": "229cb0c3323c9812172f5cca842400ec02ae5f715d030c5c57f3c71fac0d3df1"
+    "from": "38",
+    "srcSha256": "47b5605e74611c3e4540ed5af4a419163b5242b2bed6e65aa2fa48341a2402dd",
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-39/R38_to_R39.jprecipe",
+    "size": 63016812,
+    "sha256": "7ff9eab288dd6a1f07205d16496694804cfad2e769d9f8ce98580b6d71c1e505"
    }
   ]
  },
  "notesKo": [
-  "R38: 제작법 %s 수정 · 전투 대사창 폭·나눔 · 종족 이름"
+  "R39: 원본 26111713 · 새 설정·비전 카드·장비 강화 번역 · 능력치 패널 한글 · 용·정령·사령 표기 · UI 넘침 수정 · 동행자"
  ]
 }
