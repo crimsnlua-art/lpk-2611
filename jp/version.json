@@ -13,31 +13,31 @@
   "sha256": "7186d7578e0e0d215fdd7388a8ad743fd8b4dd2fe534c91e706172feb68c1dab"
  },
  "apk": {
-  "apkRevision": 39,
-  "versionCode": 26111549,
-  "versionName": "11.0.0-ko39",
-  "outSize": 2152774863,
-  "outSha256": "917dc46fe15b7e1267e72a07a6747c6250e1423817e2112e64b6191bfb5e7e39",
+  "apkRevision": 40,
+  "versionCode": 26111550,
+  "versionName": "11.0.0-ko40",
+  "outSize": 2152737999,
+  "outSha256": "0d2af7d830e395f20161c87d9271220294e05c9f3a04378c3824335ab4a35ee5",
   "certSha256": "2e543529afd80801d6d30cf4b1c8b39aa705c90f033a7522b441d86db66138a4",
   "minPatcher": 1,
   "patches": [
    {
     "from": "orig",
     "srcSha256": "7186d7578e0e0d215fdd7388a8ad743fd8b4dd2fe534c91e706172feb68c1dab",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-39/orig713_to_R39.jprecipe",
-    "size": 644019544,
-    "sha256": "f7c9d0a811ba0b3779648fce81380b9280c25836c3f7dc95559e6185cc08fe9e"
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-40/orig713_to_R40.jprecipe",
+    "size": 643980639,
+    "sha256": "0341ce6f9ca15e0ed3281d9d1516fe86799de3e29cba10f3c516b71ed9eaad8e"
    },
    {
-    "from": "38",
-    "srcSha256": "47b5605e74611c3e4540ed5af4a419163b5242b2bed6e65aa2fa48341a2402dd",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-39/R38_to_R39.jprecipe",
-    "size": 63016812,
-    "sha256": "7ff9eab288dd6a1f07205d16496694804cfad2e769d9f8ce98580b6d71c1e505"
+    "from": "39",
+    "srcSha256": "917dc46fe15b7e1267e72a07a6747c6250e1423817e2112e64b6191bfb5e7e39",
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-40/R39_to_R40.jprecipe",
+    "size": 59744237,
+    "sha256": "01032cb9da443ef7508bd304c0ac1c2c65a53af12c21c7dc782e9f6810070c8e"
    }
   ]
  },
  "notesKo": [
-  "R39: 원본 26111713 · 새 설정·비전 카드·장비 강화 번역 · 능력치 패널 한글 · 용·정령·사령 표기 · UI 넘침 수정 · 동행자"
+  "R40: 능력치 패널 남은 영어 · 제거 단추 눌림 그림 · 킬러·종족 표기 · 유닛 각성 칸 겹침"
  ]
 }
