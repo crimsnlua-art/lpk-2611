@@ -13,38 +13,38 @@
   "sha256": "78ba14b1214a76bb1df1aa459a90b79a045fe43d48b9d8d35416161edb0bc977"
  },
  "apk": {
-  "apkRevision": 37,
-  "versionCode": 26111547,
-  "versionName": "11.0.0-ko37",
-  "outSize": 2150583503,
-  "outSha256": "78b4901fb7bea156a95d16cd146cc8028c5b920f93178cd1a167aa878111c08d",
+  "apkRevision": 38,
+  "versionCode": 26111548,
+  "versionName": "11.0.0-ko38",
+  "outSize": 2150591695,
+  "outSha256": "47b5605e74611c3e4540ed5af4a419163b5242b2bed6e65aa2fa48341a2402dd",
   "certSha256": "2e543529afd80801d6d30cf4b1c8b39aa705c90f033a7522b441d86db66138a4",
   "minPatcher": 1,
   "patches": [
    {
     "from": "orig",
     "srcSha256": "78ba14b1214a76bb1df1aa459a90b79a045fe43d48b9d8d35416161edb0bc977",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-37/orig510_to_R37.jprecipe",
-    "size": 641987271,
-    "sha256": "96cb8923e78c68da759b94fe8bdb08dd2472f2db4e54621244d33c29e3a2d48c"
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-38/orig510_to_R38.jprecipe",
+    "size": 641995139,
+    "sha256": "c91b9e656e72d1de0ba3ba80ac53c446d3d4ffc8af7fcf66df5629b5b26de0cf"
+   },
+   {
+    "from": "37",
+    "srcSha256": "78b4901fb7bea156a95d16cd146cc8028c5b920f93178cd1a167aa878111c08d",
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-38/R37_to_R38.jprecipe",
+    "size": 2411316,
+    "sha256": "b68fdbf72b959692925071967e265a6d1f8a86559326e87baab72000f78a2291"
    },
    {
     "from": "36",
     "srcSha256": "ab957d200233c68046cd5ff658e240dbaed22f26b5dad5859b1b94cfd0c06128",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-37/R36_to_R37.jprecipe",
-    "size": 1060058,
-    "sha256": "42c59ab7b542b44ad09a23b7d25c81b68e196156df9a1abe1e8b8acbb0b7ffc5"
-   },
-   {
-    "from": "35",
-    "srcSha256": "84a8b05d924de05f67ec61f5a9ff49ad2b45ff44ef48bd27c03197c5ff457e50",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-37/R35_to_R37.jprecipe",
-    "size": 366194,
-    "sha256": "6ac7436ef6e20c96a73d8fff81312d9ee7674f101e1d5190ac7491d514405156"
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-38/R36_to_R38.jprecipe",
+    "size": 3116241,
+    "sha256": "229cb0c3323c9812172f5cca842400ec02ae5f715d030c5c57f3c71fac0d3df1"
    }
   ]
  },
  "notesKo": [
-  "R37: GL 원본 방식 복구(GL 픽업에서만) · 추억의 소환은 설정 따름 · (GL) 표시"
+  "R38: 제작법 %s 수정 · 전투 대사창 폭·나눔 · 종족 이름"
  ]
 }
