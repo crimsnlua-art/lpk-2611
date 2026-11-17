@@ -13,31 +13,31 @@
   "sha256": "7186d7578e0e0d215fdd7388a8ad743fd8b4dd2fe534c91e706172feb68c1dab"
  },
  "apk": {
-  "apkRevision": 40,
-  "versionCode": 26111550,
-  "versionName": "11.0.0-ko40",
-  "outSize": 2152737999,
-  "outSha256": "0d2af7d830e395f20161c87d9271220294e05c9f3a04378c3824335ab4a35ee5",
+  "apkRevision": 41,
+  "versionCode": 26111551,
+  "versionName": "11.0.0-ko41",
+  "outSize": 2152885455,
+  "outSha256": "959a39d96a7f60140f48ef1e16fbdd62717768c8ac11565052cbfc43c9d730d5",
   "certSha256": "2e543529afd80801d6d30cf4b1c8b39aa705c90f033a7522b441d86db66138a4",
   "minPatcher": 1,
   "patches": [
    {
     "from": "orig",
     "srcSha256": "7186d7578e0e0d215fdd7388a8ad743fd8b4dd2fe534c91e706172feb68c1dab",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-40/orig713_to_R40.jprecipe",
-    "size": 643980639,
-    "sha256": "0341ce6f9ca15e0ed3281d9d1516fe86799de3e29cba10f3c516b71ed9eaad8e"
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-41/orig713_to_R41.jprecipe",
+    "size": 644132859,
+    "sha256": "033507b7e79208352e87410b896140296b0cd09199a5bcf8434bf9eb5240e88a"
    },
    {
-    "from": "39",
-    "srcSha256": "917dc46fe15b7e1267e72a07a6747c6250e1423817e2112e64b6191bfb5e7e39",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-40/R39_to_R40.jprecipe",
-    "size": 59744237,
-    "sha256": "01032cb9da443ef7508bd304c0ac1c2c65a53af12c21c7dc782e9f6810070c8e"
+    "from": "40",
+    "srcSha256": "0d2af7d830e395f20161c87d9271220294e05c9f3a04378c3824335ab4a35ee5",
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-41/R40_to_R41.jprecipe",
+    "size": 6013816,
+    "sha256": "edae4e37974a177b76ac9831bc98828b8358d500a6da78c442b52fe7eeb3b195"
    }
   ]
  },
  "notesKo": [
-  "R40: 능력치 패널 남은 영어 · 제거 단추 눌림 그림 · 킬러·종족 표기 · 유닛 각성 칸 겹침"
+  "R41: 보통·눌림 그림 11쌍(카드·미션·지도·공략·취소·마을 메뉴·필터 해제·공격/대기 유닛 탭 등)"
  ]
 }
