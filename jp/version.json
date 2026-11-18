@@ -1,10 +1,10 @@
 {
  "patcher": {
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/patcher-1/FFBE-JPKO-Patcher-1.0.0.apk",
+  "versionCode": 2,
+  "versionName": "1.0.1",
+  "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/patcher-2/FFBE-JPKO-Patcher-1.0.1.apk",
   "size": 6633961,
-  "sha256": "56b27925db5d9e96f62b5975234475196824ffbf91bc26fcee06b9e0d1fe0084"
+  "sha256": "6ef105be657095eac3e8644639d0b4924882d9c592b9e1e85c9f25e3413c33a0"
  },
  "original": {
   "package": "com.square_enix.ffbejpn",
@@ -19,7 +19,7 @@
   "outSize": 2164473039,
   "outSha256": "1cbe5e54f25dda78cd1118af53e2ee44949c1619499ef34c13e6cb95f61fdd8e",
   "certSha256": "2e543529afd80801d6d30cf4b1c8b39aa705c90f033a7522b441d86db66138a4",
-  "minPatcher": 1,
+  "minPatcher": 2,
   "patches": [
    {
     "from": "orig",
@@ -38,6 +38,7 @@
   ]
  },
  "notesKo": [
-  "R42: 차원의 틈 스페셜 다크 비전 시즌 1~43 배너 복구(영문 로고와 시즌 번호)"
+  "R42: 차원의 틈 스페셜 다크 비전 시즌 1~43 배너 복구(영문 로고와 시즌 번호)",
+  "패처 1.0.1: 설치 화면 열기 버튼 및 조리법 재다운로드 방지"
  ]
 }
