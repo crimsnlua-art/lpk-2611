@@ -13,31 +13,31 @@
   "sha256": "7186d7578e0e0d215fdd7388a8ad743fd8b4dd2fe534c91e706172feb68c1dab"
  },
  "apk": {
-  "apkRevision": 41,
-  "versionCode": 26111551,
-  "versionName": "11.0.0-ko41",
-  "outSize": 2152885455,
-  "outSha256": "959a39d96a7f60140f48ef1e16fbdd62717768c8ac11565052cbfc43c9d730d5",
+  "apkRevision": 42,
+  "versionCode": 26111552,
+  "versionName": "11.0.0-ko42",
+  "outSize": 2164473039,
+  "outSha256": "1cbe5e54f25dda78cd1118af53e2ee44949c1619499ef34c13e6cb95f61fdd8e",
   "certSha256": "2e543529afd80801d6d30cf4b1c8b39aa705c90f033a7522b441d86db66138a4",
   "minPatcher": 1,
   "patches": [
    {
     "from": "orig",
     "srcSha256": "7186d7578e0e0d215fdd7388a8ad743fd8b4dd2fe534c91e706172feb68c1dab",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-41/orig713_to_R41.jprecipe",
-    "size": 644132859,
-    "sha256": "033507b7e79208352e87410b896140296b0cd09199a5bcf8434bf9eb5240e88a"
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-42/orig713_to_R42.jprecipe",
+    "size": 656473979,
+    "sha256": "c08b89609ca5d14ce70f5fd7e6cd4af73a1991e47b1dc33d0a1257e33c4f0d7f"
    },
    {
-    "from": "40",
-    "srcSha256": "0d2af7d830e395f20161c87d9271220294e05c9f3a04378c3824335ab4a35ee5",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-41/R40_to_R41.jprecipe",
-    "size": 6013816,
-    "sha256": "edae4e37974a177b76ac9831bc98828b8358d500a6da78c442b52fe7eeb3b195"
+    "from": "41",
+    "srcSha256": "959a39d96a7f60140f48ef1e16fbdd62717768c8ac11565052cbfc43c9d730d5",
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-42/R41_to_R42.jprecipe",
+    "size": 16813013,
+    "sha256": "0440fc95191b5e6eadd49fa541612d6f574b25b304a86b63adb24ad1a4cd9789"
    }
   ]
  },
  "notesKo": [
-  "R41: 보통·눌림 그림 11쌍(카드·미션·지도·공략·취소·마을 메뉴·필터 해제·공격/대기 유닛 탭 등)"
+  "R42: 차원의 틈 스페셜 다크 비전 시즌 1~43 배너 복구(영문 로고와 시즌 번호)"
  ]
 }
