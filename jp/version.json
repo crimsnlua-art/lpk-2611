@@ -1,10 +1,10 @@
 {
  "patcher": {
-  "versionCode": 2,
-  "versionName": "1.0.1",
-  "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/patcher-2/FFBE-JPKO-Patcher-1.0.1.apk",
+  "versionCode": 3,
+  "versionName": "1.0.2",
+  "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/patcher-3/FFBE-JPKO-Patcher-1.0.2.apk",
   "size": 6633961,
-  "sha256": "6ef105be657095eac3e8644639d0b4924882d9c592b9e1e85c9f25e3413c33a0"
+  "sha256": "c60e0b22d0318c32a3e431869d266aef1555978f311c4456ca3cb94fe69dcddd"
  },
  "original": {
   "package": "com.square_enix.ffbejpn",
@@ -13,32 +13,32 @@
   "sha256": "7186d7578e0e0d215fdd7388a8ad743fd8b4dd2fe534c91e706172feb68c1dab"
  },
  "apk": {
-  "apkRevision": 42,
-  "versionCode": 26111552,
-  "versionName": "11.0.0-ko42",
+  "apkRevision": 43,
+  "versionCode": 26111553,
+  "versionName": "11.0.0-ko43",
   "outSize": 2164473039,
-  "outSha256": "1cbe5e54f25dda78cd1118af53e2ee44949c1619499ef34c13e6cb95f61fdd8e",
+  "outSha256": "babecb97caab09b3112d970d79829856361918bad92bbb32a48b1b4a3aa2ecd6",
   "certSha256": "2e543529afd80801d6d30cf4b1c8b39aa705c90f033a7522b441d86db66138a4",
   "minPatcher": 2,
   "patches": [
    {
     "from": "orig",
     "srcSha256": "7186d7578e0e0d215fdd7388a8ad743fd8b4dd2fe534c91e706172feb68c1dab",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-42/orig713_to_R42.jprecipe",
-    "size": 656473979,
-    "sha256": "c08b89609ca5d14ce70f5fd7e6cd4af73a1991e47b1dc33d0a1257e33c4f0d7f"
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-43/orig713_to_R43.jprecipe",
+    "size": 656474898,
+    "sha256": "d178bc7b78bcc39a9e024b5b0b2113fc02f8273cb32f330f507efadef142452e"
    },
    {
-    "from": "41",
-    "srcSha256": "959a39d96a7f60140f48ef1e16fbdd62717768c8ac11565052cbfc43c9d730d5",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-42/R41_to_R42.jprecipe",
-    "size": 16813013,
-    "sha256": "0440fc95191b5e6eadd49fa541612d6f574b25b304a86b63adb24ad1a4cd9789"
+    "from": "42",
+    "srcSha256": "1cbe5e54f25dda78cd1118af53e2ee44949c1619499ef34c13e6cb95f61fdd8e",
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-43/R42_to_R43.jprecipe",
+    "size": 468559,
+    "sha256": "30ba388e93603cad34092712545c75b921d1908c997e6a8892ad9c117fa8d1f0"
    }
   ]
  },
  "notesKo": [
-  "R42: 차원의 틈 스페셜 다크 비전 시즌 1~43 배너 복구(영문 로고와 시즌 번호)",
-  "패처 1.0.1: 설치 화면 열기 버튼 및 조리법 재다운로드 방지"
+  "R43: 다크 비전 시즌 44~54 배너 등록 복구 및 9주년 시즌 46 표기",
+  "패처 1.0.2: 시스템 설치 확인·검사 중 진행 상태와 알림 표시"
  ]
 }
