@@ -13,33 +13,33 @@
   "sha256": "899ca7d6897dc95266350b8886808aa7875161dd1a1d0408d61c86fdb54f2711"
  },
  "apk": {
-  "apkRevision": 46,
-  "versionCode": 26111556,
-  "versionName": "11.0.0-ko46",
-  "outSize": 2289712335,
-  "outSha256": "a2104c2a97debb782d666e54f2df3da7867316cbf61f09c9f1fd6247951788fe",
+  "apkRevision": 47,
+  "versionCode": 26111557,
+  "versionName": "11.0.0-ko47",
+  "outSize": 2289736911,
+  "outSha256": "c49594a65037c22f6a96a36a3481ec885049e17786426cbe9d8c438fb5ea4e55",
   "certSha256": "2e543529afd80801d6d30cf4b1c8b39aa705c90f033a7522b441d86db66138a4",
   "minPatcher": 2,
   "patches": [
    {
     "from": "orig",
     "srcSha256": "899ca7d6897dc95266350b8886808aa7875161dd1a1d0408d61c86fdb54f2711",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-46/orig914_to_R46.jprecipe",
-    "size": 657016936,
-    "sha256": "960b42c925efd1bc37a5a6d5e77151605df5b810a7fd5f0a367483a52e875caa"
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-47/orig914_to_R47.jprecipe",
+    "size": 657004516,
+    "sha256": "d1c18a6f843d2afd8a2b7f8f9e126e8eabd6644ddcbb3d396e4ec84c5e1be0d3"
    },
    {
-    "from": "43",
-    "srcSha256": "babecb97caab09b3112d970d79829856361918bad92bbb32a48b1b4a3aa2ecd6",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-46/R43_to_R46.jprecipe",
-    "size": 138068367,
-    "sha256": "201dff44e8264a2845975e7d2a4abd29fd50913f6e42aa857d493bcde90debfe"
+    "from": "46",
+    "srcSha256": "a2104c2a97debb782d666e54f2df3da7867316cbf61f09c9f1fd6247951788fe",
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-47/R46_to_R47.jprecipe",
+    "size": 39318454,
+    "sha256": "af04c76ff0b57b574a3693f231ce4cd2716f16563388e9e770bf7b434eb2a109"
    }
   ]
  },
  "notesKo": [
-  "원본 26111914 호환. 다크 비전 및 차원의 틈 배너 수정.",
-  "전투와 NPC·퀘스트 대사의 줄바꿈 조정. 장비 추가와 능력치 정렬.",
-  "비전 카드와 조각 이름 한글 검색, 사용자 설정에서 한글 닉네임 변경."
+  "장비 추가 화면에 공격·방어·마력·정신·HP·MP의 기본값과 패시브 보너스를 표시합니다.",
+  "도발·물리 회피·마법 회피·속성 저항력을 표시하고, 조건부 효과는 발동 조건을 함께 보여줍니다.",
+  "무기는 공격 속성을 표시합니다. 무속성과 복수 속성도 지원합니다."
  ]
 }
