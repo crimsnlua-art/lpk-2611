@@ -8,38 +8,43 @@
  },
  "original": {
   "package": "com.square_enix.ffbejpn",
-  "versionCode": 26111914,
-  "size": 1909476374,
-  "sha256": "899ca7d6897dc95266350b8886808aa7875161dd1a1d0408d61c86fdb54f2711"
+  "versionCode": 26111923
  },
  "apk": {
-  "apkRevision": 47,
-  "versionCode": 26111557,
-  "versionName": "11.0.0-ko47",
-  "outSize": 2289736911,
-  "outSha256": "c49594a65037c22f6a96a36a3481ec885049e17786426cbe9d8c438fb5ea4e55",
+  "apkRevision": 48,
+  "versionCode": 26111558,
+  "versionName": "11.0.0-ko48",
+  "outSize": 2290781391,
+  "outSha256": "3a53d1e53afabf9217f1f909f68a08d727d9f9e8ea108fb31c87506e352f7e58",
   "certSha256": "2e543529afd80801d6d30cf4b1c8b39aa705c90f033a7522b441d86db66138a4",
   "minPatcher": 2,
   "patches": [
    {
     "from": "orig",
-    "srcSha256": "899ca7d6897dc95266350b8886808aa7875161dd1a1d0408d61c86fdb54f2711",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-47/orig914_to_R47.jprecipe",
-    "size": 657004516,
-    "sha256": "d1c18a6f843d2afd8a2b7f8f9e126e8eabd6644ddcbb3d396e4ec84c5e1be0d3"
+    "srcSha256": "523ccc076a52c63d5b39d26b336e28a00ea72c6d8ffb5432188a970efca49f64",
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-48/orig923_to_R48.jprecipe",
+    "size": 657021269,
+    "sha256": "dc925b155e34b7d7836d0ec45a9a6cfa1c9f7d939799495235f9126399ded55b"
    },
    {
-    "from": "46",
-    "srcSha256": "a2104c2a97debb782d666e54f2df3da7867316cbf61f09c9f1fd6247951788fe",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-47/R46_to_R47.jprecipe",
-    "size": 39318454,
-    "sha256": "af04c76ff0b57b574a3693f231ce4cd2716f16563388e9e770bf7b434eb2a109"
+    "from": "orig",
+    "srcSha256": "899ca7d6897dc95266350b8886808aa7875161dd1a1d0408d61c86fdb54f2711",
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-48/orig914_to_R48.jprecipe",
+    "size": 662197608,
+    "sha256": "9fb4ecf155a4324d9999d85fb0bae877fff12fd036577bd5e96879dbea2b361a"
+   },
+   {
+    "from": "47",
+    "srcSha256": "c49594a65037c22f6a96a36a3481ec885049e17786426cbe9d8c438fb5ea4e55",
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-48/R47_to_R48.jprecipe",
+    "size": 5571021,
+    "sha256": "00d13e4a956c916d8ced75c2dc7e0253bd067aff16eae613e2235a3f30af3043"
    }
   ]
  },
  "notesKo": [
-  "장비 추가 화면에 공격·방어·마력·정신·HP·MP의 기본값과 패시브 보너스를 표시합니다.",
-  "도발·물리 회피·마법 회피·속성 저항력을 표시하고, 조건부 효과는 발동 조건을 함께 보여줍니다.",
-  "무기는 공격 속성을 표시합니다. 무속성과 복수 속성도 지원합니다."
+  "원본 26111923과 26111914를 지원합니다. 한글판 R47에서 바로 업데이트할 수 있습니다.",
+  "시대 모드 초반 튜토리얼 소환, 효우·암흑기사 디엔 픽업 배너 및 보물상자 처리를 개선한 원본 수정 사항을 포함합니다.",
+  "글로벌판 리미트 버스트 98개의 어빌리티 참조 오류를 고친 원본 데이터를 반영했습니다."
  ]
 }
