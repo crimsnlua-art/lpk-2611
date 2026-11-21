@@ -8,48 +8,58 @@
  },
  "original": {
   "package": "com.square_enix.ffbejpn",
-  "versionCode": 26111923
+  "versionCode": 26112115
  },
  "apk": {
-  "apkRevision": 49,
-  "versionCode": 26111559,
-  "versionName": "11.0.0-ko49",
-  "outSize": 2290781391,
-  "outSha256": "1cec219d05c1cb259ce6df75c3b81ac06ddad86220bd8f9ebdd8cba3a30d05d0",
+  "apkRevision": 52,
+  "versionCode": 26111562,
+  "versionName": "11.0.0-ko52",
+  "outSize": 2315332815,
+  "outSha256": "c088d779774bfb0516a63aa4ea99bffd11838e08d99b3308b296a8aa03abd587",
   "certSha256": "2e543529afd80801d6d30cf4b1c8b39aa705c90f033a7522b441d86db66138a4",
   "minPatcher": 2,
   "patches": [
    {
     "from": "orig",
-    "srcSha256": "523ccc076a52c63d5b39d26b336e28a00ea72c6d8ffb5432188a970efca49f64",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-49/orig923_to_R49.jprecipe",
-    "size": 657024137,
-    "sha256": "fec36b528b18623b9cb72549a0f3a9106b36b252e15be6aacf317362895e9b13"
+    "srcSha256": "02558424188dbb80e075a59fbd700401ca42a8a4e37d37b693e0fbe27e551da2",
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-52/orig115_to_R52.jprecipe",
+    "size": 661802523,
+    "sha256": "e5b0f79b94f47e3962765200bb266966025a6794af85ab34589cdf1100d00377"
    },
    {
     "from": "orig",
-    "srcSha256": "899ca7d6897dc95266350b8886808aa7875161dd1a1d0408d61c86fdb54f2711",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-49/orig914_to_R49.jprecipe",
-    "size": 662176295,
-    "sha256": "17ce48a9ae586a723268882797e75dc0d4c50fc3b43d733e66aa04ffc9370121"
+    "srcSha256": "523ccc076a52c63d5b39d26b336e28a00ea72c6d8ffb5432188a970efca49f64",
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-52/orig923_to_R52.jprecipe",
+    "size": 712469142,
+    "sha256": "f69c3332fa9c920d5abe9229a928cdfb6809fd093e7c63e3c7228370d5c18a71"
+   },
+   {
+    "from": "49",
+    "srcSha256": "1cec219d05c1cb259ce6df75c3b81ac06ddad86220bd8f9ebdd8cba3a30d05d0",
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-52/R49_to_R52.jprecipe",
+    "size": 105742763,
+    "sha256": "af04f937546b95601565bbbe06455a76a915e509f47c4206cef4834aa2f900e9"
    },
    {
     "from": "48",
     "srcSha256": "3a53d1e53afabf9217f1f909f68a08d727d9f9e8ea108fb31c87506e352f7e58",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-49/R48_to_R49.jprecipe",
-    "size": 377914,
-    "sha256": "8cbe28bd1d801d5a6570b8b1ed5d6b0258e74d69a874ebcf71611f8080c41d33"
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-52/R48_to_R52.jprecipe",
+    "size": 105757035,
+    "sha256": "fe119c05e5d5908be083620a4810d6f21097ec540e56a163e708a3f3e050b3c1"
    },
    {
     "from": "47",
     "srcSha256": "c49594a65037c22f6a96a36a3481ec885049e17786426cbe9d8c438fb5ea4e55",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-49/R47_to_R49.jprecipe",
-    "size": 5576138,
-    "sha256": "c04a798442c6ff003d7abbfae93b9c9214aff51a76ad538f3d0a985bb73fb56e"
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-52/R47_to_R52.jprecipe",
+    "size": 109767340,
+    "sha256": "a37a1ada90d28bfbc0b44860b92bfd5c8311f2fe756a73359fb7a2fc322f057d"
    }
   ]
  },
  "notesKo": [
-  "라피스 조각 상점에 만능휘석 1개를 5,000 라피스로 구매할 수 있게 추가했습니다."
+  "원본 26112115 호환. 연대기 전투, 소환 배너, 조각 상점 3,000 라피스 상품과 주간 한도 설정을 반영했습니다.",
+  "한글 스토리·NPC·퀘스트 대사 117,515행을 검사했습니다. 같은 화자의 대사가 자연스럽게 이어지도록 줄과 페이지를 조정했습니다.",
+  "캐릭터, 장비, 어빌리티와 비전 카드에서 한글 표시 이름으로 검색할 수 있습니다.",
+  "콜라보 이름 27개, 어빌리티 장착 탭의 글자 대비, 장비 슬롯과 우선 능력치의 한글 표시를 수정했습니다."
  ]
 }
