@@ -11,61 +11,68 @@
   "versionCode": 26112115
  },
  "apk": {
-  "apkRevision": 53,
-  "versionCode": 26111563,
-  "versionName": "11.0.0-ko53",
-  "outSize": 2315312335,
-  "outSha256": "953a8f01ba9d32944b4e20b6ba4959e1fb4dc526201ae6a63dc8916786b6169a",
+  "apkRevision": 54,
+  "versionCode": 26111564,
+  "versionName": "11.0.0-ko54",
+  "outSize": 2315025615,
+  "outSha256": "1cc0d9acab5091faf7bb621265719e0ae695add6dda78bc57612e8f0382a83d2",
   "certSha256": "2e543529afd80801d6d30cf4b1c8b39aa705c90f033a7522b441d86db66138a4",
   "minPatcher": 2,
   "patches": [
    {
     "from": "orig",
     "srcSha256": "02558424188dbb80e075a59fbd700401ca42a8a4e37d37b693e0fbe27e551da2",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-53/orig115_to_R53.jprecipe",
-    "size": 661778904,
-    "sha256": "950539e8600c846d4d7b1931d944ec9a64da6540c727e0394fb8248f677eeaa3"
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-54/orig115_to_R54.jprecipe",
+    "size": 661489178,
+    "sha256": "1bc89f89ffb4e38490d8a73236af2430bfa329602aa6db5a0692072d493e385d"
    },
    {
     "from": "orig",
     "srcSha256": "523ccc076a52c63d5b39d26b336e28a00ea72c6d8ffb5432188a970efca49f64",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-53/orig923_to_R53.jprecipe",
-    "size": 712452045,
-    "sha256": "cebea2bc64e7ab35a51eba9fa96b4e06d9063bf1ca83528bc5557165c2a87226"
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-54/orig923_to_R54.jprecipe",
+    "size": 712158857,
+    "sha256": "714f25aad46b08e0899910340cc91bfdf16e47a8e8876739ed54c1e77a223849"
+   },
+   {
+    "from": "53",
+    "srcSha256": "953a8f01ba9d32944b4e20b6ba4959e1fb4dc526201ae6a63dc8916786b6169a",
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-54/R53_to_R54.jprecipe",
+    "size": 75899294,
+    "sha256": "00be00e0084eedc856ebc05b0cc0ce91bf5bcc30daffd1aee10ca7a59e32ad3d"
    },
    {
     "from": "52",
     "srcSha256": "c088d779774bfb0516a63aa4ea99bffd11838e08d99b3308b296a8aa03abd587",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-53/R52_to_R53.jprecipe",
-    "size": 4712241,
-    "sha256": "143f5618f28e6e3093f40f7fb255daa9abc2d14951e4b8fe79135b08868fadc2"
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-54/R52_to_R54.jprecipe",
+    "size": 80358831,
+    "sha256": "d4a7a4bd4c31329d7b724138f28aae04244bc8abb02bbde664dda7b5e716dcb6"
    },
    {
     "from": "49",
     "srcSha256": "1cec219d05c1cb259ce6df75c3b81ac06ddad86220bd8f9ebdd8cba3a30d05d0",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-53/R49_to_R53.jprecipe",
-    "size": 106354646,
-    "sha256": "fd147ed89ab59fbf19f7bbe2a57bda9cd5d9215adfddc13e646ff642538a48eb"
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-54/R49_to_R54.jprecipe",
+    "size": 168284825,
+    "sha256": "b40fe9a47c5c2e950491d93aea7511eb06170823de53f37ceb3ec7c44cc40389"
    },
    {
     "from": "48",
     "srcSha256": "3a53d1e53afabf9217f1f909f68a08d727d9f9e8ea108fb31c87506e352f7e58",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-53/R48_to_R53.jprecipe",
-    "size": 106361670,
-    "sha256": "efed57eb31a843d7c81666fe959b8a5af8528a97807afd7adcc4332e109af22c"
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-54/R48_to_R54.jprecipe",
+    "size": 168275892,
+    "sha256": "a93c7dcaad93462d05d59ae381075e0aa50083fbac9ba8ff2f8b6d29e86c3566"
    },
    {
     "from": "47",
     "srcSha256": "c49594a65037c22f6a96a36a3481ec885049e17786426cbe9d8c438fb5ea4e55",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-53/R47_to_R53.jprecipe",
-    "size": 110359179,
-    "sha256": "5da5957e6ce6d908381e7201263327b005dd8eb827f95ddbeb011bddab9abcf8"
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-54/R47_to_R54.jprecipe",
+    "size": 172285887,
+    "sha256": "ff14d33622771a9440cdf78a2e09e0499a0968f8a3a79250778e38053f622ce3"
    }
   ]
  },
  "notesKo": [
-  "전투 상태 효과 351줄 한글화, 어빌리티 장착의 전체·마법 글자 밝기 및 퀘스트 목표 위치 수정.",
-  "스토리 대사 전체 재검사. 본문은 최대 3줄, 전투·NPC 대사는 최대 2줄.",
-  "장비·어빌리티 추가와 한글 검색. 희귀도·보유 여부·무기 속성·능력치·회피·도발·저항력 다중 필터와 양방향 정렬."
+  "공식 글로벌판 기준으로 디르나드 등 지명 표기를 지도·퀘스트·대사·도감·다시보기에서 통일.",
+  "정렬·필터의 종족 이름과 녹마법·기타 등 버튼 문구 수정. 소환 마법 피해량과 환수 피해량 구분.",
+  "업데이트 직후 이미 준비된 UI·대사 파일의 반복 저장을 줄임."
  ]
 }
