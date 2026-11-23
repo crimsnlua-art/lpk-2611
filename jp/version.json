@@ -11,82 +11,88 @@
   "versionCode": 26112401
  },
  "apk": {
-  "apkRevision": 55,
-  "versionCode": 26111565,
-  "versionName": "11.0.0-ko55",
-  "outSize": 2316086479,
-  "outSha256": "c5bdb7d1e57543fc871caa4884ed59f7d687de96936d97f330abfb459a8d088b",
+  "apkRevision": 56,
+  "versionCode": 26111566,
+  "versionName": "11.0.0-ko56",
+  "outSize": 2316078287,
+  "outSha256": "466de5dfb4a788e052eaf357323a4ff4090afd03b8b0fbcfc19436a38c9e3dda",
   "certSha256": "2e543529afd80801d6d30cf4b1c8b39aa705c90f033a7522b441d86db66138a4",
   "minPatcher": 2,
   "patches": [
    {
     "from": "orig",
     "srcSha256": "f7f61688a062e1a4fd7fb8cb8e25637d6e6a1b109737304c19fc712a97ad01b6",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-55/orig401_to_R55.jprecipe",
-    "size": 662452278,
-    "sha256": "02ad9b3531320078fd097d38c9b981e48a356e3c3348b083748c291e1adbb3f6"
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-56/orig401_to_R56.jprecipe",
+    "size": 662586069,
+    "sha256": "17574a0623e28429ee81f9ccd063a087962cb267a446945ff6c9a63ba3701c70"
    },
    {
     "from": "orig",
     "srcSha256": "02558424188dbb80e075a59fbd700401ca42a8a4e37d37b693e0fbe27e551da2",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-55/orig115_to_R55.jprecipe",
-    "size": 693081885,
-    "sha256": "65c43fd9396f39000186ccf93e53ef374f4f4bdfe34678e816e2677e50e316fe"
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-56/orig115_to_R56.jprecipe",
+    "size": 693213908,
+    "sha256": "e050b52b4010d5fb63e3178101f2927f60ee03391b7d38b076cc3da51d3049ab"
    },
    {
     "from": "orig",
     "srcSha256": "523ccc076a52c63d5b39d26b336e28a00ea72c6d8ffb5432188a970efca49f64",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-55/orig923_to_R55.jprecipe",
-    "size": 741179837,
-    "sha256": "c28ccc43b1a497a4943a1477c8191348d66031271edb6c6a261e867ac1ee97fe"
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-56/orig923_to_R56.jprecipe",
+    "size": 741313485,
+    "sha256": "b3f9c91e5fc80c909ed35fa8a026690031d2857a76823732276b41ffd88fc59b"
+   },
+   {
+    "from": "55",
+    "srcSha256": "c5bdb7d1e57543fc871caa4884ed59f7d687de96936d97f330abfb459a8d088b",
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-56/R55_to_R56.jprecipe",
+    "size": 4291486,
+    "sha256": "a8718e7679bd5c527d8060dd2ba8e15ffb466b44e8fc85a9fbd5936ed003fce5"
    },
    {
     "from": "54",
     "srcSha256": "1cc0d9acab5091faf7bb621265719e0ae695add6dda78bc57612e8f0382a83d2",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-55/R54_to_R55.jprecipe",
-    "size": 93901591,
-    "sha256": "abc8388ce898f6d9c2306c015f711b566f684114340d957b3d4ec3628f328bcc"
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-56/R54_to_R56.jprecipe",
+    "size": 94114221,
+    "sha256": "eec5d1664cba6949359e5de7aef4f386a86f678bb7d979109df4cb1630a6247b"
    },
    {
     "from": "53",
     "srcSha256": "953a8f01ba9d32944b4e20b6ba4959e1fb4dc526201ae6a63dc8916786b6169a",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-55/R53_to_R55.jprecipe",
-    "size": 148948766,
-    "sha256": "a445b6b42a375f6cabb6406c24d7eac4de97da38e65a1cf89f2d84e2e92e8274"
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-56/R53_to_R56.jprecipe",
+    "size": 149162483,
+    "sha256": "bde0660dc4e5b323dfb8712b2af644e9bc94c7efb9523a6be04454d402474d4e"
    },
    {
     "from": "52",
     "srcSha256": "c088d779774bfb0516a63aa4ea99bffd11838e08d99b3308b296a8aa03abd587",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-55/R52_to_R55.jprecipe",
-    "size": 152936465,
-    "sha256": "ac47a08b2dd4737f830e20b11db31db900df3aa30be8fb109406ecd4b239e995"
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-56/R52_to_R56.jprecipe",
+    "size": 153144035,
+    "sha256": "5d0e96a7578f89f2114c15c3e152d0d54b49b8cafc96abbbc56ea44e9771095d"
    },
    {
     "from": "49",
     "srcSha256": "1cec219d05c1cb259ce6df75c3b81ac06ddad86220bd8f9ebdd8cba3a30d05d0",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-55/R49_to_R55.jprecipe",
-    "size": 234153715,
-    "sha256": "a5ac3c40f38ea62f6ad27959693de7a2eeb36ed6826f81538d8817e7d5220970"
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-56/R49_to_R56.jprecipe",
+    "size": 234284472,
+    "sha256": "6fbfd6eb3ec8e2d9632244609501dbb2950b2f6f2b6d677ff06a36dff02f057a"
    },
    {
     "from": "48",
     "srcSha256": "3a53d1e53afabf9217f1f909f68a08d727d9f9e8ea108fb31c87506e352f7e58",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-55/R48_to_R55.jprecipe",
-    "size": 234176627,
-    "sha256": "64975e70ee745325745bd4fea8a3d0a47562ed3ceb613caeee874ac47ec2dc3b"
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-56/R48_to_R56.jprecipe",
+    "size": 234307518,
+    "sha256": "1c33e0d5992b38f831f01c6d345c4982891fac3916e1aad51f6f476ad02c38bc"
    },
    {
     "from": "47",
     "srcSha256": "c49594a65037c22f6a96a36a3481ec885049e17786426cbe9d8c438fb5ea4e55",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-55/R47_to_R55.jprecipe",
-    "size": 238171174,
-    "sha256": "2097c9615be014fba75e9114db5cb0beac6fded7287b6504ebb12f0d7a53f96d"
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-56/R47_to_R56.jprecipe",
+    "size": 238305994,
+    "sha256": "5e23b2cac506608d7ad5174350cac8fd6373b75747896372609d8067bdb43de8"
    }
   ]
  },
  "notesKo": [
-  "원본 26112401 호환. 시대 모드의 어빌리티 조정, 주간 보상 및 콜로세움 업데이트 반영.",
-  "네메시스의 최종 강림 연전 배너 3장에 한글 제목을 추가했습니다.",
-  "영문 표기가 바뀐 지역 이름과 새 설정 및 길가메시 픽업 문구를 한글로 정리했습니다."
+  "플레이 설정에서 기존 계정의 시대 모드를 해제할 수 있습니다. 진행 기록과 보유 데이터를 유지합니다.",
+  "시대별 마법·어빌리티 설명 79개와 제보된 소환 배너 제목 3개를 한글화했습니다."
  ]
 }
