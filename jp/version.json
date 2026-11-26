@@ -13,39 +13,45 @@
   "sha256": "c58a4d8e824beee35b9b3bfa145e834913bdca430d98d1e3bdf7ac647e1f2978"
  },
  "apk": {
-  "apkRevision": 66,
-  "versionCode": 26111576,
-  "versionName": "11.0.0-ko66",
+  "apkRevision": 67,
+  "versionCode": 26111577,
+  "versionName": "11.0.0-ko67",
   "outSize": 2316655823,
-  "outSha256": "3e95e8dc5db523fba6935f6ffa0d8341525be4912ea3189c95499a53966ea5e6",
+  "outSha256": "8a0e40da6db7e5b96482c51b5083e11ec32e8d7fa0463c64c2b46ec72608361b",
   "certSha256": "2e543529afd80801d6d30cf4b1c8b39aa705c90f033a7522b441d86db66138a4",
   "minPatcher": 2,
   "patches": [
    {
     "from": "orig",
     "srcSha256": "c58a4d8e824beee35b9b3bfa145e834913bdca430d98d1e3bdf7ac647e1f2978",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-66/orig414_to_R66.jprecipe",
-    "size": 663161049,
-    "sha256": "314b13514703c37d3175e9f49a15174af6b9786fca15085e78b45d33aab0691a"
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-67/orig414_to_R67.jprecipe",
+    "size": 663160256,
+    "sha256": "92594943132a2c6e96358441ef055b498b6d293c0d426fe0327e28d9dae5361a"
+   },
+   {
+    "from": "66",
+    "srcSha256": "3e95e8dc5db523fba6935f6ffa0d8341525be4912ea3189c95499a53966ea5e6",
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-67/R66_to_R67.jprecipe",
+    "size": 575597,
+    "sha256": "ada7305bb371c9285514a06b70b01f62ee48820ef763d7ddff52ee1bfef49166"
    },
    {
     "from": "65",
     "srcSha256": "944b25b7f40c0606f730809b841626102838a6b6e0dca1fac56c1f5989d8af86",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-66/R65_to_R66.jprecipe",
-    "size": 6905295,
-    "sha256": "de743e22d43988cd4b76124a1f7df7526684e933f5b9a99be09fff678f7758f2"
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-67/R65_to_R67.jprecipe",
+    "size": 6910329,
+    "sha256": "eb2a40cea0687956201e743cd64a00151d1f1009d3198ce76a41f15dbc68f530"
    },
    {
     "from": "64",
     "srcSha256": "86993d2eef0213aa6451050106814cc0d4100a8cde01316f819828ca92744baf",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-66/R64_to_R66.jprecipe",
-    "size": 7033412,
-    "sha256": "56d0d4cc8f90191326e487849b3f6db00104c6283af6fbee2b2c429f038e1bc9"
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-67/R64_to_R67.jprecipe",
+    "size": 7029141,
+    "sha256": "a68dd9c1d3ad719d33277e9ef8d8130149cab66ecb4576a14764492cb1b9e772"
    }
   ]
  },
  "notesKo": [
-  "아이템 이름만 표시되던 설명을 수정하고, 스킬 상세의 잘린 문장과 겹치는 콤보 표시를 보완했습니다.",
-  "소환 출현율 안내를 한글화하고, 지안의 배너 띠 표기를 환영의 도적 지안 (GL)으로 맞췄습니다."
+  "콤보 어빌리티 상세에서 목록 버튼이 변경 후 스킬 이름을 가리던 부분의 간격을 수정했습니다."
  ]
 }
