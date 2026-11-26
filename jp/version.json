@@ -8,27 +8,44 @@
  },
  "original": {
   "package": "com.square_enix.ffbejpn",
-  "versionCode": 26112414
+  "versionCode": 26112414,
+  "size": 1938443286,
+  "sha256": "c58a4d8e824beee35b9b3bfa145e834913bdca430d98d1e3bdf7ac647e1f2978"
  },
  "apk": {
-  "apkRevision": 65,
-  "versionCode": 26111575,
-  "versionName": "11.0.0-ko65",
-  "outSize": 2316516559,
-  "outSha256": "944b25b7f40c0606f730809b841626102838a6b6e0dca1fac56c1f5989d8af86",
+  "apkRevision": 66,
+  "versionCode": 26111576,
+  "versionName": "11.0.0-ko66",
+  "outSize": 2316655823,
+  "outSha256": "3e95e8dc5db523fba6935f6ffa0d8341525be4912ea3189c95499a53966ea5e6",
   "certSha256": "2e543529afd80801d6d30cf4b1c8b39aa705c90f033a7522b441d86db66138a4",
   "minPatcher": 2,
   "patches": [
    {
+    "from": "orig",
+    "srcSha256": "c58a4d8e824beee35b9b3bfa145e834913bdca430d98d1e3bdf7ac647e1f2978",
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-66/orig414_to_R66.jprecipe",
+    "size": 663161049,
+    "sha256": "314b13514703c37d3175e9f49a15174af6b9786fca15085e78b45d33aab0691a"
+   },
+   {
+    "from": "65",
+    "srcSha256": "944b25b7f40c0606f730809b841626102838a6b6e0dca1fac56c1f5989d8af86",
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-66/R65_to_R66.jprecipe",
+    "size": 6905295,
+    "sha256": "de743e22d43988cd4b76124a1f7df7526684e933f5b9a99be09fff678f7758f2"
+   },
+   {
     "from": "64",
     "srcSha256": "86993d2eef0213aa6451050106814cc0d4100a8cde01316f819828ca92744baf",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-65/R64_to_R65.jprecipe",
-    "size": 496107,
-    "sha256": "3b391225e18ac3c236aff8884ea58d77ec7559860889480406e2d00a6ce8a37e"
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-66/R64_to_R66.jprecipe",
+    "size": 7033412,
+    "sha256": "56d0d4cc8f90191326e487849b3f6db00104c6283af6fbee2b2c429f038e1bc9"
    }
   ]
  },
  "notesKo": [
-  "R65: Blade Breaker Esther 칭호 '섬멸의 검 에스더'로 통일"
+  "아이템 이름만 표시되던 설명을 수정하고, 스킬 상세의 잘린 문장과 겹치는 콤보 표시를 보완했습니다.",
+  "소환 출현율 안내를 한글화하고, 지안의 배너 띠 표기를 환영의 도적 지안 (GL)으로 맞췄습니다."
  ]
 }
