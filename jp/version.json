@@ -8,57 +8,65 @@
  },
  "original": {
   "package": "com.square_enix.ffbejpn",
-  "versionCode": 26112414,
-  "size": 1938443286,
-  "sha256": "c58a4d8e824beee35b9b3bfa145e834913bdca430d98d1e3bdf7ac647e1f2978"
+  "versionCode": 26112612,
+  "size": 1943518402,
+  "sha256": "35cc485bb4d2798788de9727403753ea22202319ff40ac672e70ce9ff81ebf55"
  },
  "apk": {
-  "apkRevision": 68,
-  "versionCode": 26111578,
-  "versionName": "11.0.0-ko68",
-  "outSize": 2316655823,
-  "outSha256": "bd14d299e60b1051e323939d4b260f5f95e843dfd8573e70f2a6a4ab16854c08",
+  "apkRevision": 69,
+  "versionCode": 26111579,
+  "versionName": "11.0.0-ko69",
+  "outSize": 2321747323,
+  "outSha256": "1293ee276c94c09ee9fac49026879742d093653c54aa52f8e1541306f616bcaf",
   "certSha256": "2e543529afd80801d6d30cf4b1c8b39aa705c90f033a7522b441d86db66138a4",
   "minPatcher": 2,
   "patches": [
    {
     "from": "orig",
-    "srcSha256": "c58a4d8e824beee35b9b3bfa145e834913bdca430d98d1e3bdf7ac647e1f2978",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-68/orig414_to_R68.jprecipe",
-    "size": 663158301,
-    "sha256": "84d0fa33b547fdc0e7967d72c3a7c4cdd2172899b4e8243f27d3568e663aca6e"
+    "srcSha256": "35cc485bb4d2798788de9727403753ea22202319ff40ac672e70ce9ff81ebf55",
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-69/orig26112612_to_R69.jprecipe",
+    "size": 663663933,
+    "sha256": "c95dc4616ee1a1028b68034e3c7147c3522dad041036028ade7fc3a495db2348"
+   },
+   {
+    "from": "68",
+    "srcSha256": "bd14d299e60b1051e323939d4b260f5f95e843dfd8573e70f2a6a4ab16854c08",
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-69/R68_to_R69.jprecipe",
+    "size": 96313519,
+    "sha256": "2acff1f7a2c2ebd544343ff902f17fe658b35f29733a0bfd385f92e72a2ee1d2"
    },
    {
     "from": "67",
     "srcSha256": "8a0e40da6db7e5b96482c51b5083e11ec32e8d7fa0463c64c2b46ec72608361b",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-68/R67_to_R68.jprecipe",
-    "size": 557351,
-    "sha256": "2fe9e66ce5c7e08fc1fa69d62bf48b020a0ef9b8d494a9f9fca64cf42f160257"
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-69/R67_to_R69.jprecipe",
+    "size": 96503817,
+    "sha256": "b7c6788d0c5571d7fc09ce1c30a2e74a9472e12eb320ccfc1e2047dba2105c47"
    },
    {
     "from": "66",
     "srcSha256": "3e95e8dc5db523fba6935f6ffa0d8341525be4912ea3189c95499a53966ea5e6",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-68/R66_to_R68.jprecipe",
-    "size": 257823,
-    "sha256": "888b6783147cb94cecdc08c62047a4aaa25d2b71defcbdd6f05fc3910be281c3"
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-69/R66_to_R69.jprecipe",
+    "size": 96507000,
+    "sha256": "b91e12a9793ee021dad0d9c83e212c82b659e5de7bd019dc43031526d8a07cdb"
    },
    {
     "from": "65",
     "srcSha256": "944b25b7f40c0606f730809b841626102838a6b6e0dca1fac56c1f5989d8af86",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-68/R65_to_R68.jprecipe",
-    "size": 6899319,
-    "sha256": "181c4173d1171764fa32fb139c0b14e6133bba8855e26f2831adfeee2480a597"
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-69/R65_to_R69.jprecipe",
+    "size": 101539501,
+    "sha256": "692adda9abbe159191cfbdd97a72d1d2ab0fbf4f21b8b4f5581c54652c39806c"
    },
    {
     "from": "64",
     "srcSha256": "86993d2eef0213aa6451050106814cc0d4100a8cde01316f819828ca92744baf",
-    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-68/R64_to_R68.jprecipe",
-    "size": 7021264,
-    "sha256": "4cbfa032438ddf88cfff0a6219e000517ee8e9726e692019070fff6ffa7fa829"
+    "url": "https://github.com/crimsnlua-art/lpk-2611/releases/download/apk-69/R64_to_R69.jprecipe",
+    "size": 101651277,
+    "sha256": "5a91356de77217c2cc7ba15b5deb2fe522758c2a258484492d118a45f941acae"
    }
   ]
  },
  "notesKo": [
-  "콤보 설명을 버튼 위 두 줄에 배치해 목록 버튼이 변경 후 기술명을 가리는 문제를 수정했습니다."
+  "FFBE-JP V1.1.0(원본 26112612) 호환. 의지의 격돌 보스 6종, 스토리 이벤트 13종과 새 설정을 반영했습니다.",
+  "R68의 한글 대사와 콤보 상세 표시를 이식했습니다. 기존 한글판에는 덮어 설치할 수 있습니다."
  ]
 }
